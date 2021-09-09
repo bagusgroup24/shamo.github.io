@@ -10,6 +10,7 @@ class SplashPage extends StatefulWidget {
 
 class _SplashPageState extends State<SplashPage> {
   @override
+  // ignore: must_call_super
   void initState() {
     Timer(
       Duration(seconds: 3),
