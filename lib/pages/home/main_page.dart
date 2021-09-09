@@ -129,7 +129,7 @@ class _MainPageState extends State<MainPage> {
     }
 
     return Scaffold(
-      backgroundColor: backgorundColor1,
+      backgroundColor: currentIndex == 0 ? backgorundColor1 : backgorundColor3,
       floatingActionButton: cardButton(),
       floatingActionButtonLocation: FloatingActionButtonLocation.centerDocked,
       bottomNavigationBar: customBottomNav(),
