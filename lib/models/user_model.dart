@@ -28,6 +28,7 @@ class UserModel {
       'id': id,
       'name': name,
       'email': email,
+      'username': username,
       'profile_photo_url': profilePhotoUrl,
       'token': token,
     };
