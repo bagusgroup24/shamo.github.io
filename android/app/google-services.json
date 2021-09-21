@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "297243570183",
+    "project_id": "shamo-b1e91",
+    "storage_bucket": "shamo-b1e91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297243570183:android:0671be921cc14c1d5d3aa2",
+        "android_client_info": {
+          "package_name": "com.bagus.shamo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297243570183-u2c14uuf493phmot3ahokh59p9hk63hs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADWML6p1MksuN47Cf0TazqT_TmSzD9Jrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297243570183-u2c14uuf493phmot3ahokh59p9hk63hs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
